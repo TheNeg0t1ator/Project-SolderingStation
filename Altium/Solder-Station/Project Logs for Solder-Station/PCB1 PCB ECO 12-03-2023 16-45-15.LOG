@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R2 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R3 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Added Component: Designator=J?(PHOE-1714955_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1714955.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "PC Terminal Block, Pitch 6.35 mm, 1 x 2 Position, Height 21.5 mm, Tail Lenght 5.1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1714955"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=PWM
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Net: Name=NetJ?_2
+Added Member To Class: ClassName=Output Member=Component J? 1714955
+Add Class Member: Failed to add class member : Component L1 Common mode Choke
+Add Class Member: Failed to add class member : Component Q3 BC857

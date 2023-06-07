@@ -1,0 +1,84 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R2 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R3 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R4 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R5 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R6 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R7 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R8 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R9 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R10 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R11 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R12 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R13 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R14 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R15 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R16 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R17 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R18 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R19 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R20 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R21 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R22 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R23 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R24 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Added Component: Designator=U3(FP-C04-300-PT-IPC_A)
+Add component (AddParameter): Name = "Case/Package"; Value = "TQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Architecture"; Value = "AVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "48KB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/Os"; Value = "41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "Brown-out Detect/Reset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "megaAVR® 0, Functional Safety (FuSa)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA5 Pin=U3-1
+Added Pin To Net: NetName=PA6 Pin=U3-2
+Added Pin To Net: NetName=PB0 Pin=U3-4
+Added Pin To Net: NetName=PB1 Pin=U3-5
+Added Pin To Net: NetName=PB2 Pin=U3-6
+Added Pin To Net: NetName=PB3 Pin=U3-7
+Added Pin To Net: NetName=PB4 Pin=U3-8
+Added Pin To Net: NetName=PB5 Pin=U3-9
+Added Pin To Net: NetName=PWM Pin=U3-10
+Added Pin To Net: NetName=PC1 Pin=U3-11
+Added Pin To Net: NetName=PC2 Pin=U3-12
+Added Pin To Net: NetName=PC3 Pin=U3-13
+Added Pin To Net: NetName=+5 Pin=U3-14
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=PC4 Pin=U3-16
+Added Pin To Net: NetName=PC5 Pin=U3-17
+Added Pin To Net: NetName=PC6 Pin=U3-18
+Added Pin To Net: NetName=PC7 Pin=U3-19
+Added Pin To Net: NetName=analog1 Pin=U3-20
+Added Pin To Net: NetName=analog2 Pin=U3-21
+Added Pin To Net: NetName=VIN_detect Pin=U3-22
+Added Pin To Net: NetName=PD3 Pin=U3-23
+Added Pin To Net: NetName=PD4 Pin=U3-24
+Added Pin To Net: NetName=PD5 Pin=U3-25
+Added Pin To Net: NetName=PD6 Pin=U3-26
+Added Pin To Net: NetName=PD7 Pin=U3-27
+Added Pin To Net: NetName=AVDD Pin=U3-28
+Added Pin To Net: NetName=GND Pin=U3-29
+Added Pin To Net: NetName=RELAY_PIN Pin=U3-30
+Added Pin To Net: NetName=PE1 Pin=U3-31
+Added Pin To Net: NetName=PE2 Pin=U3-32
+Added Pin To Net: NetName=PE3 Pin=U3-33
+Added Pin To Net: NetName=PF0 Pin=U3-34
+Added Pin To Net: NetName=PF1 Pin=U3-35
+Added Pin To Net: NetName=PF2 Pin=U3-36
+Added Pin To Net: NetName=PF3 Pin=U3-37
+Added Pin To Net: NetName=PF4 Pin=U3-38
+Added Pin To Net: NetName=PF5 Pin=U3-39
+Added Pin To Net: NetName=PF6 Pin=U3-40
+Added Pin To Net: NetName=UPDI Pin=U3-41
+Added Pin To Net: NetName=+5 Pin=U3-42
+Added Pin To Net: NetName=GND Pin=U3-43
+Added Pin To Net: NetName=PA2 Pin=U3-46
+Added Pin To Net: NetName=PA3 Pin=U3-47
+Added Pin To Net: NetName=PA4 Pin=U3-48
+Added Member To Class: ClassName=Microcontroller Member=Component U3 ATMEGA4809-AU

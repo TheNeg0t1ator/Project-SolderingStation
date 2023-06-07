@@ -1,0 +1,64 @@
+Add Component: Footprint Not Found ONSC-SMB-2-403A-03_H_V
+Add Component: Footprint Not Found FP-ACSC02-41SURKWA-F01-MFG
+Add Component: Footprint Not Found FP-ACSC02-41SURKWA-F01-MFG
+Add Component: Footprint Not Found FP-ACSC02-41SURKWA-F01-MFG
+Add Component: Footprint Not Found FP-ACSC02-41SURKWA-F01-MFG
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Add Pin To Net: Unknown Pin: Pin DS1-2
+Add Pin To Net: Unknown Pin: Pin DS1-3
+Add Pin To Net: Unknown Pin: Pin DS1-4
+Add Pin To Net: Unknown Pin: Pin DS1-5
+Add Pin To Net: Unknown Pin: Pin DS1-6
+Add Pin To Net: Unknown Pin: Pin DS1-7
+Add Pin To Net: Unknown Pin: Pin DS1-8
+Add Pin To Net: Unknown Pin: Pin DS1-9
+Add Pin To Net: Unknown Pin: Pin DS1-10
+Add Pin To Net: Unknown Pin: Pin DS2-1
+Add Pin To Net: Unknown Pin: Pin DS2-2
+Add Pin To Net: Unknown Pin: Pin DS2-3
+Add Pin To Net: Unknown Pin: Pin DS2-4
+Add Pin To Net: Unknown Pin: Pin DS2-5
+Add Pin To Net: Unknown Pin: Pin DS2-6
+Add Pin To Net: Unknown Pin: Pin DS2-7
+Add Pin To Net: Unknown Pin: Pin DS2-8
+Add Pin To Net: Unknown Pin: Pin DS2-9
+Add Pin To Net: Unknown Pin: Pin DS2-10
+Add Pin To Net: Unknown Pin: Pin DS3-1
+Add Pin To Net: Unknown Pin: Pin DS3-2
+Add Pin To Net: Unknown Pin: Pin DS3-3
+Add Pin To Net: Unknown Pin: Pin DS3-4
+Add Pin To Net: Unknown Pin: Pin DS3-5
+Add Pin To Net: Unknown Pin: Pin DS3-6
+Add Pin To Net: Unknown Pin: Pin DS3-7
+Add Pin To Net: Unknown Pin: Pin DS3-8
+Add Pin To Net: Unknown Pin: Pin DS3-9
+Add Pin To Net: Unknown Pin: Pin DS3-10
+Add Pin To Net: Unknown Pin: Pin DS4-1
+Add Pin To Net: Unknown Pin: Pin DS4-2
+Add Pin To Net: Unknown Pin: Pin DS4-3
+Add Pin To Net: Unknown Pin: Pin DS4-4
+Add Pin To Net: Unknown Pin: Pin DS4-5
+Add Pin To Net: Unknown Pin: Pin DS4-6
+Add Pin To Net: Unknown Pin: Pin DS4-7
+Add Pin To Net: Unknown Pin: Pin DS4-8
+Add Pin To Net: Unknown Pin: Pin DS4-9
+Add Pin To Net: Unknown Pin: Pin DS4-10
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin RE1-1
+Add Pin To Net: Unknown Pin: Pin RE1-2
+Add Pin To Net: Unknown Pin: Pin RE1-3
+Add Pin To Net: Unknown Pin: Pin RE1-4
+Add Pin To Net: Unknown Pin: Pin RE1-6
+Add Pin To Net: Unknown Pin: Pin RE1-7
+Add Pin To Net: Unknown Pin: Pin RE1-8
+Add Class Member: Failed to add class member : Component D3 5v1
+Add Class Member: Failed to add class member : Component DS1 7segDisplay
+Add Class Member: Failed to add class member : Component DS2 7segDisplay
+Add Class Member: Failed to add class member : Component DS3 7segDisplay
+Add Class Member: Failed to add class member : Component DS4 7segDisplay
+Add Class Member: Failed to add class member : Component Q3 BC857
+Add Class Member: Failed to add class member : Component RE1 Relay

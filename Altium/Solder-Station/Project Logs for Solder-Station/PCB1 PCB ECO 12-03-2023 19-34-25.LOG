@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=Q1 Old Footprint=INF-PG-TO252-3-313_M New Footprint=INF-PG-TO252-3-313_N
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L1-3
+Add Pin To Net: Unknown Pin: Pin L1-4
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Class Member: Failed to add class member : Component L1 Common mode Choke
+Add Class Member: Failed to add class member : Component Q3 BC857

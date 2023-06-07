@@ -1,0 +1,106 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R2 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R3 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R4 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R5 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R6 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R7 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R8 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R9 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R10 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R11 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R12 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R13 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R14 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R15 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R16 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R17 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R18 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R19 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Added Component: Designator=C12(RESC2013X50X30LL20T20)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP-SMD_BD4.0-L4.3-W4.3-FD-LS5.3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "3.1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 8.3 x 8.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EEE-FK1E221P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25 V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found ONSC-SMB-2-403A-03_H_V
+Add Component: Footprint Not Found FP-C04-300-PT-IPC_B
+Added Pin To Net: NetName=+5 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=+5 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L1-3
+Add Pin To Net: Unknown Pin: Pin L1-4
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin RE1-1
+Add Pin To Net: Unknown Pin: Pin RE1-2
+Add Pin To Net: Unknown Pin: Pin RE1-3
+Add Pin To Net: Unknown Pin: Pin RE1-4
+Add Pin To Net: Unknown Pin: Pin RE1-6
+Add Pin To Net: Unknown Pin: Pin RE1-7
+Add Pin To Net: Unknown Pin: Pin RE1-8
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-14
+Add Pin To Net: Unknown Pin: Pin U3-15
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-22
+Add Pin To Net: Unknown Pin: Pin U3-28
+Add Pin To Net: Unknown Pin: Pin U3-29
+Add Pin To Net: Unknown Pin: Pin U3-30
+Add Pin To Net: Unknown Pin: Pin U3-42
+Add Pin To Net: Unknown Pin: Pin U3-43
+Added Member To Class: ClassName=Thermokoppel Member=Component C12 100nF
+Added Member To Class: ClassName=Thermokoppel Member=Component C13 10µF
+Add Class Member: Failed to add class member : Component D3 5v1
+Add Class Member: Failed to add class member : Component L1 Common mode Choke
+Add Class Member: Failed to add class member : Component Q3 BC857
+Add Class Member: Failed to add class member : Component RE1 Relay
+Add Class Member: Failed to add class member : Component U3 ATMEGA4809-AU

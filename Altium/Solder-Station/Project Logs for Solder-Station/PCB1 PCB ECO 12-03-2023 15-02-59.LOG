@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R2 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R3 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L1-3
+Add Pin To Net: Unknown Pin: Pin L1-4
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Class Member: Failed to add class member : Component L1 Common mode Choke
+Add Class Member: Failed to add class member : Component Q1 P-Channel MOSFET
+Add Class Member: Failed to add class member : Component Q3 BC857

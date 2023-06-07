@@ -1,0 +1,12 @@
+Added Component: Designator=SB1(SolderBridge)
+Added Component: Designator=SB2(SolderBridge)
+Added Component: Designator=SB3(SolderBridge)
+Added Pin To Net: NetName=analog2 Pin=SB1-1
+Added Pin To Net: NetName=NetC3_1 Pin=SB1-2
+Added Pin To Net: NetName=analog1 Pin=SB2-1
+Added Pin To Net: NetName=NetC4_1 Pin=SB2-2
+Added Pin To Net: NetName=NetC6_1 Pin=SB3-1
+Added Pin To Net: NetName=+5 Pin=SB3-2
+Added Member To Class: ClassName=Thermokoppel Member=Component SB1 SolderBridge
+Added Member To Class: ClassName=Thermokoppel Member=Component SB2 SolderBridge
+Added Member To Class: ClassName=Voeding Member=Component SB3 SolderBridge

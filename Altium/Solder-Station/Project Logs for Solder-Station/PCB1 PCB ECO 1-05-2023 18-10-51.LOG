@@ -1,0 +1,4 @@
+Added Component: Designator=SB3(SolderBridge_BIG)
+Added Pin To Net: NetName=NetC6_1 Pin=SB3-1
+Added Pin To Net: NetName=+5 Pin=SB3-2
+Added Member To Class: ClassName=Voeding Member=Component SB3 SolderBridge
