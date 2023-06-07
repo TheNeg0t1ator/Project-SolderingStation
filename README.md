@@ -1,6 +1,16 @@
 # Project-SolderingStation
 
+This is the project of Kobe Dieryck
 
+## Intro
+For this assignment, a soldering station was chosen. The project aimed to achieve a minimalist, small, and sleek design while maintaining a high level of power. The preferred connector for this project was the *Hirose RPC1* 6 pin connector, commonly found in JBC soldering stations. This choice allowed for easy swapping of the iron without the need for any modifications.
+
+
+Furthermore, a single modification was made to the design by incorporating SMD (Surface-Mount Device) Components. This decision aimed to simplify the assembly process and achieve a more compact overall design.
+The foundation of this project is based on the Elektor magazine release 507 (June 2021), which provides detailed instructions for constructing a soldering station. The design utilizes the *Atmega4809* microcontroller and a 2 x 12V transformer with a power rating of 60VA.
+
+
+## Bill Of Materials
 
 | Item             | Store      | Package          | Price/unit | Amount | Total price |
 |------------------|------------|------------------|------------|--------|-------------|
